@@ -190,18 +190,4 @@ I am committed to advancing my academic journey by applying to multiple prestigi
 
 ---
 
-## Academic Highlights
-
-🎯 **Specialization Areas**: Computer Vision, Deep Learning, Natural Language Processing, Data Mining, Quantum Computing
-
-🏆 **Outstanding Performance**: Multiple A+ grades in advanced AI/ML courses
-
-🔬 **Research Focus**: Advanced algorithms, computer vision applications, and AI systems
-
-💻 **Programming Expertise**: Java, Python, C/C++, R, Web Technologies
-
-🎓 **Current Studies**: Pursuing Master's in Computer Science with focus on advanced algorithms, computer vision, and data mining
-
----
-
 *Last Updated: August 2025*
