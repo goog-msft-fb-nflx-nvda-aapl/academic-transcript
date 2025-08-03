@@ -189,5 +189,10 @@ I am committed to advancing my academic journey by applying to multiple prestigi
 | CSCA 5342 | Robotic Path Planning and Task Execution | Fall 1 session, 2025 | 1 | Dr. Nikolaus Correll |
 
 ---
-
+## Quotes
+ - 🇯🇵 出来ないのは、周りが悪いんじゃない 自分がいけないんだ 嫌だったら自分で変えなきゃ。
+ - 🇬🇧 "Success is not final, failure is not fatal: it is the courage to continue that counts."
+ - 🇩🇪 "Sein Leben schwingt also, gleich einem Pendel, hin und her, zwischen dem Schmerz und der Langenweile, welche beide in der That dessen letzte Bestandteile sind.", 《Die Welt als Wille und Vorstellung》, [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
+ - 🇫🇷 "Il n'y a qu'un problème philosophique vraiment sérieux : c'est le suicide", 《Le Mythe de Sisyphe》, [Albert Camus](https://en.wikipedia.org/wiki/Albert_Camus)
+ - 🇪🇸 "y que en cualquier lugar en que estuvieran recordaran siempre que el pasado era mentira, que la memoria no tenía caminos de regreso, que toda primavera antigua era irrecuperable, y que el amor más desatinado y tenaz era de todos modos una verdad efímera.", 《Cien años de soledad》, [Gabriel García Márquez](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez)
 *Last Updated: August 2025*
