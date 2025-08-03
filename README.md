@@ -20,9 +20,9 @@ I am committed to advancing my academic journey by applying to multiple prestigi
 
 # [Academic Transcript](https://docs.google.com/spreadsheets/d/1qFHtR24B5UH7TLq60TdfFSSah3_vxXQ-apWZ8R6ydtY/edit?usp=sharing)
 
-## National Taiwan University (NTU) 国立台湾大学 
- -  M.S. in Electrical Engineering　修士課程（専攻：電気工学）
- -  B.S. in Mechanical Engineering, double major in Mathematics, minor in Electrical Engineering.  学士課程（二重専攻：機械工学と数学、副専攻：電気工学）
+## National Taiwan University (NTU)
+ -  M.S. in Electrical Engineering
+ -  B.S. in Mechanical Engineering, double major in Mathematics, minor in Electrical Engineering.
 
 ---
 
