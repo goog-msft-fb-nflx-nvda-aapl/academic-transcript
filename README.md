@@ -1,8 +1,6 @@
 # [Academic Transcript](https://docs.google.com/spreadsheets/d/1qFHtR24B5UH7TLq60TdfFSSah3_vxXQ-apWZ8R6ydtY/edit?usp=sharing)
 
 ## National Taiwan University (NTU)
-
-## National Taiwan University (NTU)
  -  M.S. in Electrical Engineering
  -  B.S. in Mechanical Engineering, double major in Mathematics, minor in Electrical Engineering.
 
@@ -132,30 +130,30 @@
 ### Algorithms
 | Course Code | Course Title | Status | Credits | Instructor |
 |-------------|--------------|--------|---------|------------|
-| CSCA 5414 | Dynamic Programming, Greedy Algorithms | In Progress | 1 | Sriram Sankaranarayanan |
-| CSCA 5424 | Approximation Algorithms and Linear Programming | In Progress | 1 | Sriram Sankaranarayanan |
-| CSCA 5454 | Advanced Data Structures, RSA and Quantum Algorithms | In Progress (95.65%) | 1 | Sriram Sankaranarayanan |
+| CSCA 5414 | Dynamic Programming, Greedy Algorithms | Final grades will be post on Aug 6, 5:00 p.m. MT | 1 | Sriram Sankaranarayanan |
+| CSCA 5424 | Approximation Algorithms and Linear Programming | Final grades will be post on Aug 6, 5:00 p.m. MT | 1 | Sriram Sankaranarayanan |
+| CSCA 5454 | Advanced Data Structures, RSA and Quantum Algorithms | Final grades will be post on Aug 6, 5:00 p.m. MT | 1 | Sriram Sankaranarayanan |
 
 ### Computer Vision
 | Course Code | Course Title | Status | Credits | Instructor |
 |-------------|--------------|--------|---------|------------|
-| CSCA 5222 | Introduction to Computer Vision | In Progress | 1 | Dr. Tom Yeh |
-| CSCA 5322 | Deep Learning for Computer Vision | In Progress | 1 | Dr. Tom Yeh |
-| CSCA 5422 | Computer Vision for Generative AI | In Progress | 1 | Dr. Tom Yeh |
+| CSCA 5222 | Introduction to Computer Vision | Fall 1 session, 2025 | 1 | Dr. Tom Yeh |
+| CSCA 5322 | Deep Learning for Computer Vision | Fall 1 session, 2025 | 1 | Dr. Tom Yeh |
+| CSCA 5422 | Computer Vision for Generative AI | Fall 1 session, 2025 | 1 | Dr. Tom Yeh |
 
 ### Data Mining
 | Course Code | Course Title | Status | Credits | Instructor |
 |-------------|--------------|--------|---------|------------|
-| CSCA 5502 | Data Mining Pipeline | In Progress | 1 | Dr. Qin (Christine) Lv |
-| CSCA 5512 | Data Mining Methods | In Progress | 1 | Dr. Qin (Christine) Lv |
-| CSCA 5522 | Data Mining Project | In Progress | 1 | Dr. Qin (Christine) Lv |
+| CSCA 5502 | Data Mining Pipeline | Fall 1 session, 2025 | 1 | Dr. Qin (Christine) Lv |
+| CSCA 5512 | Data Mining Methods | Fall 1 session, 2025 | 1 | Dr. Qin (Christine) Lv |
+| CSCA 5522 | Data Mining Project | Fall 1 session, 2025 | 1 | Dr. Qin (Christine) Lv |
 
 ### Robotics
 | Course Code | Course Title | Status | Credits | Instructor |
 |-------------|--------------|--------|---------|------------|
-| CSCA 5312 | Basic Robotic Behaviors and Odometry | In Progress | 1 | Dr. Nikolaus Correll |
-| CSCA 5332 | Robotic Mapping and Trajectory Generation | In Progress | 1 | Dr. Nikolaus Correll |
-| CSCA 5342 | Robotic Path Planning and Task Execution | In Progress | 1 | Dr. Nikolaus Correll |
+| CSCA 5312 | Basic Robotic Behaviors and Odometry | Fall 1 session, 2025 | 1 | Dr. Nikolaus Correll |
+| CSCA 5332 | Robotic Mapping and Trajectory Generation | Fall 1 session, 2025 | 1 | Dr. Nikolaus Correll |
+| CSCA 5342 | Robotic Path Planning and Task Execution | Fall 1 session, 2025 | 1 | Dr. Nikolaus Correll |
 
 ---
 
