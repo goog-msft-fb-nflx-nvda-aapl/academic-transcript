@@ -1,3 +1,15 @@
+## 📬 Contact Information
+
+| Platform     | Link / Note                                                                                                                                                                     |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 📧 Gmail      | [r05921008@gmail.com](mailto:r05921008@gmail.com)                                                                                                                               |
+| 💻 GitHub     | [github.com/goog-msft-fb-nflx-nvda-aapl](https://github.com/goog-msft-fb-nflx-nvda-aapl)                                                                                        |
+| 📇 LinkedIn   | *I will create a LinkedIn profile only after achieving two goals:*<br>1. Admission to a top MS program (Stanford, CMU, UW, UT Austin, or UIUC)<br>2. Offer from top companies (Google, DeepMind, Microsoft, Meta, Nvidia, OpenAI, Anthropic) |
+| 🏅 Credly     | [credly.com/users/james_hnd_2025/badges](https://www.credly.com/users/james_hnd_2025/badges#credly)                                                                            |
+| 📜 CertDirectory | [certdirectory.io/profile](https://certdirectory.io/profile/c83940d1-9bd6-468a-a67f-8dfb49fb4bbf)                                                                              |
+| ▶️ YouTube    | [youtube.com/@goog-msft-fb-nflx-nvda-aapl](https://www.youtube.com/@goog-msft-fb-nflx-nvda-aapl)                                                                                |
+| 🐦 X (Twitter) | [x.com/James_GOOG_CLUW](https://x.com/James_GOOG_CLUW)                                                                                                                         |
+| 📸 Instagram  | *Will be updated after my return to Japan this August.*                                                                                                                        |
 # Graduate School Application Goals (2025-2026)
 
 ## 🎯 Pursuing Excellence in Graduate Studies
