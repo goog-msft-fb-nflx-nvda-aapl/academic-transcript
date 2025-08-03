@@ -10,9 +10,9 @@ I am committed to advancing my academic journey by applying to multiple prestigi
 |------------|---------|--------|--------|-------------------|-----------------|
 | 🌉 **Stanford University, CA** | Computer Science (15 courses) | M.S. | | 2025-09-30 ~ 2025-12-02 | |
 | 🗣️ **University of Washington, Seattle, WA** | Computational Linguistics | M.S. | | 2025-12-01 ~ 2026-03-01 | |
-| 🧠 **University of Texas at Austin, TX** | Artificial Intelligence | M.S. | 🔴 | **Fall:** Dec 15 → Mar 15 (Priority) → Apr 15 (Final) | |
+| 🧠 **University of Texas at Austin, TX** | Artificial Intelligence | M.S. | - | **Fall:** Dec 15 → Mar 15 (Priority) → Apr 15 (Final) | |
 |  |  |  |  | **Spring:** Jun 1 → Aug 1 (Priority) → Sep 1 (Final) | |
-| 📊 **UIUC, Urbana, IL** | Computer Science in Data Science | M.S. | ✅ | 2025-10-15 | 2025-11-30 |
+| 📊 **UIUC, Urbana, IL** | Computer Science in Data Science | M.S. | - | 2025-10-15 | 2025-11-30 |
 |  |  |  |  | 2026-05-30 | 2026-07-15 |
 |  |  |  |  | 2026-05-30 | 2026-07-15 |
 
