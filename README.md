@@ -6,7 +6,7 @@
 
 ---
 
-# National Taiwan University Academic Grading Guide
+## National Taiwan University Academic Grading Guide
 
 | Letter Grade | Description                              | GPA | Raw Score Range | Reference Score |
 |--------------|-------------------------------------------|-----|------------------|------------------|
@@ -200,11 +200,15 @@
 
 ---
 
-## Grading System
-- **A**: 4.0 (94-100%)
-- **A-**: 3.7 (90-93%)
-- **B+**: 3.3 (87-89%)
-- **B**: 3.0 (83-87%)
+## University of Colorado Boulder Academic Grading Guide
+
+| Letter Grade | GPA | Percentage Range  |
+|--------------|-----|-------------------|
+| A            | 4.0 | 94% to 100%       |
+| A-           | 3.7 | 90% to <94%       |
+| B+           | 3.3 | 87% to <90%       |
+| B            | 3.0 | 83% to <87%       |
+| B-           | 2.7 | 80% to <83%       |
 
 ---
 
