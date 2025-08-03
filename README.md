@@ -1,4 +1,4 @@
-## 📬 Contact Information
+# 📬 Contact Information
 
 | Platform     | Link / Note                                                                                                                                                                     |
 |--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -11,6 +11,7 @@
 | ▶️ YouTube    | [youtube.com/@goog-msft-fb-nflx-nvda-aapl](https://www.youtube.com/@goog-msft-fb-nflx-nvda-aapl)                                                                                |
 | 🐦 X (Twitter) | [x.com/James_GOOG_CLUW](https://x.com/James_GOOG_CLUW)                                                                                                                         |
 | 📸 Instagram  | *Will be updated after my return to Japan this August.*                                                                                                                        |
+
 # Graduate School Application Goals (2025-2026)
 
 ## 🎯 Pursuing Excellence in Graduate Studies
@@ -189,7 +190,7 @@ I am committed to advancing my academic journey by applying to multiple prestigi
 | CSCA 5342 | Robotic Path Planning and Task Execution | Fall 1 session, 2025 | 1 | Dr. Nikolaus Correll |
 
 ---
-## Quotes
+# Quotes
  - 🇯🇵 出来ないのは、周りが悪いんじゃない 自分がいけないんだ 嫌だったら自分で変えなきゃ。
  - 🇬🇧 "Success is not final, failure is not fatal: it is the courage to continue that counts."
  - 🇩🇪 "Sein Leben schwingt also, gleich einem Pendel, hin und her, zwischen dem Schmerz und der Langenweile, welche beide in der That dessen letzte Bestandteile sind.", 《Die Welt als Wille und Vorstellung》, [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
