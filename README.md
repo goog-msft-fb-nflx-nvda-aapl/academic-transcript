@@ -6,11 +6,15 @@
 
 ---
 
-## Grading System
-- **A+**: 4.3 (90-100%) - All goals achieved beyond expectation
-- **A**: 4.0 (85-89%) - All goals achieved  
-- **A-**: 3.7 (80-84%) - All goals achieved, but need some polish
-- **B+**: 3.3 (77-79%) - Some goals well achieved
+# National Taiwan University Academic Grading Guide
+
+| Letter Grade | Description                              | GPA | Raw Score Range | Reference Score |
+|--------------|-------------------------------------------|-----|------------------|------------------|
+| A+           | All goals achieved beyond expectation.    | 4.3 | 90–100          | 95               |
+| A            | All goals achieved.                       | 4.0 | 85–89           | 87               |
+| A-           | All goals achieved, but need some polish. | 3.7 | 80–84           | 82               |
+| B+           | Some goals well achieved.                 | 3.3 | 77–79           | 78               |
+
 
 ---
 
