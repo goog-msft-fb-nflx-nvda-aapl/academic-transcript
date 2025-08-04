@@ -149,6 +149,7 @@ I am committed to advancing my academic journey by applying to multiple prestigi
 ## University of Colorado Boulder
 ### Master of Science in Computer Science (In Progress)
 
+![Alt text](ms-cs_cu-boulder.jpg)
 ---
 
 ## University of Colorado Boulder Academic Grading Guide
