@@ -20,6 +20,8 @@ I am committed to advancing my academic journey by applying to multiple prestigi
 
 ## Target M.S. Programs
 
+![Alt text](programs_us.jpg)
+
 | University | Program | Status | Application Period | Decision Period |
 |------------|---------|--------|-------------------|-----------------|
 | 🌉 **Stanford University, CA** | [Computer Science](https://www.cs.stanford.edu/masters-program-overview) | | 2025-09-30 ~ 2025-12-02 | |
