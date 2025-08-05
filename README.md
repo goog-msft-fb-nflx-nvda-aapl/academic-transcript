@@ -26,8 +26,8 @@ I am committed to advancing my academic journey by applying to multiple prestigi
 |------------|---------|--------|-------------------|-----------------|
 | 🌉 **Stanford University, CA** | [Computer Science](https://www.cs.stanford.edu/masters-program-overview) | | 2025-09-30 ~ 2025-12-02 | |
 | 🗣️ **University of Washington, Seattle, WA** | [Computational Linguistics](https://www.compling.uw.edu/) | | 2025-12-01 ~ 2026-03-01 | |
-| 🧠 **University of Texas at Austin, TX** | [Artificial Intelligence](https://cdso.utexas.edu/msai) |  | **Fall Application** <br>Application Opens: December 15 <br>Priority Deadline	March 15 <br>Final Deadline	April 15 | |
-|  |  |  | **Spring Application** <br>Application Opens: June 1 <br>Priority Deadline	August 1 <br>Final Deadline	September 1 | |
+| 🧠 **University of Texas at Austin, TX** | [Artificial Intelligence](https://cdso.utexas.edu/msai) |  | **Fall Application** <br>Application Opens: Dec 15 <br>Priority Deadline:	Mar 15 <br>Final Deadline:	Apr 15 | |
+|  |  |  | **Spring Application** <br>Application Opens: June 1 <br>Priority Deadline:	Aug 1 <br>Final Deadline:	Sep 1 | |
 | 📊 **UIUC, Urbana, IL** | [Computer Science in Data Science](https://siebelschool.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science-data-science) |  | 2025-10-15 | 2025-11-30 |
 |  |  |  | 2026-02-15 | 2026-03-31 |
 |  |  |  | 2026-05-30 | 2026-07-15 |
