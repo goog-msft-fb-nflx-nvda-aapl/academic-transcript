@@ -37,7 +37,7 @@ I am committed to advancing my academic journey by applying to multiple prestigi
 # Academic Transcript
 
 ## [National Taiwan University](https://www.ntu.edu.tw/english/) (NTU)
- -  M.S. in [Electrical Engineering], [College of Eletrical Engineering and Computer Science](https://eecs.ntu.edu.tw/?locale=en)
+ -  M.S. in [Electrical Engineering](https://web.ee.ntu.edu.tw/eng/index.php), [College of Eletrical Engineering and Computer Science](https://eecs.ntu.edu.tw/?locale=en)
  -  B.S. in Mechanical Engineering, double major in Mathematics, minor in Electrical Engineering.
 
 ---
