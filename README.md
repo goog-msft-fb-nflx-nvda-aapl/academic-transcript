@@ -2,10 +2,10 @@
 
 | Platform     | Link / Note                                                                                                                                                                     |
 |--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Google Sheet](https://docs.google.com/spreadsheets/d/1qFHtR24B5UH7TLq60TdfFSSah3_vxXQ-apWZ8R6ydtY/edit?usp=sharing)      |   Academic Transcript, Certification, Weekly Schedule in 2025                                                                                                                             |
+| 📄[Google Sheet](https://docs.google.com/spreadsheets/d/1qFHtR24B5UH7TLq60TdfFSSah3_vxXQ-apWZ8R6ydtY/edit?usp=sharing)      |   Academic Transcript, Certification, Weekly Schedule in 2025                                                                                                                             |
 | 📧 Gmail      | [r05921008@gmail.com](mailto:r05921008@gmail.com). <br>If needed, please contact me in either 🇺🇸English or 🇯🇵Japanese. Thank you!                                                                                                                               |
 | 💻 GitHub     | [github.com/goog-msft-fb-nflx-nvda-aapl](https://github.com/goog-msft-fb-nflx-nvda-aapl)                                                                                        |
-| 📇 LinkedIn   | *I will create a LinkedIn profile only after achieving two goals:*<br>1. Admission to a top MS program ([Stanford](https://www.cs.stanford.edu/masters-program-overview), [CMU](https://csd.cmu.edu/academics/masters/ms-in-computer-science), [UW](https://www.compling.uw.edu/), [UT Austin](https://cdso.utexas.edu/msai), or [UIUC](https://siebelschool.illinois.edu/academics/graduate/ms-program), etc.)<br>2. Offer from top companies (Google/DeepMind, OpenAI, Anthropic, Microsoft, Meta, Apple, Nvidia, Netflix)<br>I’m not sure if I’ll ever get there — but I’m committed to doing my best to make it happen.<br>(Note: Amazon was a meaningful part of my journey, but it’s not the destination I’m aiming for.)|
+| 📇 LinkedIn   | *I will create a LinkedIn profile only after achieving two goals:*<br>1. Admission to a top MS program in the U.S. ( [Stanford](https://www.cs.stanford.edu/masters-program-overview), [CMU](https://csd.cmu.edu/academics/masters/ms-in-computer-science), [UW](https://www.compling.uw.edu/), [UT Austin](https://cdso.utexas.edu/msai), or [UIUC](https://siebelschool.illinois.edu/academics/graduate/ms-program), etc.)<br>2. Offer from top companies (Google/DeepMind, OpenAI, Anthropic, Microsoft, Meta, Apple, Nvidia, Netflix)<br>I’m not sure if I’ll ever get there — but I’m committed to doing my best to make it happen.<br>(Note: Amazon was a meaningful part of my journey, but it’s not the destination I’m aiming for.)|
 | 🏅 Credly     | [credly.com/users/james_hnd_2025/badges](https://www.credly.com/users/james_hnd_2025/badges#credly)                                                                            |
 | 📜 CertDirectory | [certdirectory.io/profile](https://certdirectory.io/profile/c83940d1-9bd6-468a-a67f-8dfb49fb4bbf)                                                                              |
 | ▶️ YouTube    | [youtube.com/@goog-msft-fb-nflx-nvda-aapl](https://www.youtube.com/@goog-msft-fb-nflx-nvda-aapl)                                                                                |
@@ -22,22 +22,22 @@ I am committed to advancing my academic journey by applying to multiple prestigi
 
 ![Alt text](programs_us.jpg)
 
-| University | Program | Status | Application Period | Decision Period |
-|------------|---------|--------|-------------------|-----------------|
-| 🌉 **Stanford University, CA** | [Computer Science](https://www.cs.stanford.edu/masters-program-overview) | | 2025-09-30 ~ 2025-12-02 | |
-| 🗣️ **University of Washington, Seattle, WA** | [Computational Linguistics](https://www.compling.uw.edu/) | | 2025-12-01 ~ 2026-03-01 | |
-| 🧠 **University of Texas at Austin, TX** | [Artificial Intelligence](https://cdso.utexas.edu/msai) |  | **Fall:** Dec 15 → Mar 15 (Priority) → Apr 15 (Final) | |
-|  |  |  | **Spring:** Jun 1 → Aug 1 (Priority) → Sep 1 (Final) | |
-| 📊 **UIUC, Urbana, IL** | [Computer Science in Data Science](https://siebelschool.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science-data-science) |  | 2025-10-15 | 2025-11-30 |
-|  |  |  | 2026-02-15 | 2026-03-31 |
-|  |  |  | 2026-05-30 | 2026-07-15 |
+| University | Program | Application Period | Decision Period |
+|------------|---------|-------------------|-----------------|
+| 🌉 **Stanford University, CA** | [Computer Science](https://www.cs.stanford.edu/masters-program-overview) | 2025-09-30 ~ 2025-12-02 | |
+| 🗣️ **University of Washington, Seattle, WA** | [Computational Linguistics](https://www.compling.uw.edu/) | 2025-12-01 ~ 2026-03-01 | |
+| 🧠 **University of Texas at Austin, TX** | [Artificial Intelligence](https://cdso.utexas.edu/msai) |  **🍂Fall Application** <br>Opens: Dec 15 <br>Priority Deadline:	Mar 15 <br>Final Deadline:	Apr 15 | Late-July to Mid-December |
+|  |  |  **🌸Spring Application** <br>Opens: June 1 <br>Priority Deadline:	Aug 1 <br>Final Deadline:	Sep 1 | Late-January to Mid-July |
+| 📊 **UIUC, Urbana, IL** | [C.S. in Data Science](https://siebelschool.illinois.edu/academics/graduate/professional-mcs/online-master-computer-science-data-science) |  2025-10-15 | 2025-11-30 |
+|  |  |  2026-02-15 | 2026-03-31 |
+|  |  |  2026-05-30 | 2026-07-15 |
 
 ---
 
 # Academic Transcript
 
-## National Taiwan University (NTU)
- -  M.S. in Electrical Engineering
+## [National Taiwan University](https://www.ntu.edu.tw/english/) (NTU)
+ -  M.S. in [Electrical Engineering](https://web.ee.ntu.edu.tw/eng/index.php), [College of Eletrical Engineering and Computer Science](https://eecs.ntu.edu.tw/?locale=en)
  -  B.S. in Mechanical Engineering, double major in Mathematics, minor in Electrical Engineering.
 
 ---
