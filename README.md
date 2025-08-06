@@ -5,7 +5,7 @@
 | 📄[Google Sheet](https://docs.google.com/spreadsheets/d/1qFHtR24B5UH7TLq60TdfFSSah3_vxXQ-apWZ8R6ydtY/edit?usp=sharing)      |   Academic Transcript, Certification, Weekly Schedule in 2025                                                                                                                             |
 | 📧 Gmail      | [r05921008@gmail.com](mailto:r05921008@gmail.com). <br>If needed, please contact me in either 🇺🇸English or 🇯🇵Japanese. Thank you!                                                                                                                               |
 | 💻 GitHub     | [github.com/goog-msft-fb-nflx-nvda-aapl](https://github.com/goog-msft-fb-nflx-nvda-aapl)                                                                                        |
-| 📇 LinkedIn   | [LinkedIn](www.linkedin.com/in/james-goog-jp-ms-cl-uw) |
+| 📇 LinkedIn   | [[LinkedIn](www.linkedin.com/in/james-goog-jp-ms-cl-uw)](https://www.linkedin.com/in/james-goog-jp-ms-cl-uw/) |
 | 🏅 Credly     | [credly.com/users/james_hnd_2025/badges](https://www.credly.com/users/james_hnd_2025/badges#credly)                                                                            |
 | 📜 CertDirectory | [certdirectory.io/profile](https://certdirectory.io/profile/c83940d1-9bd6-468a-a67f-8dfb49fb4bbf)                                                                              |
 | ▶️ YouTube    | [youtube.com/@goog-msft-fb-nflx-nvda-aapl](https://www.youtube.com/@goog-msft-fb-nflx-nvda-aapl)                                                                                |
