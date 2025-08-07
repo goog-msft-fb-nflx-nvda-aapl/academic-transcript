@@ -168,7 +168,7 @@ I am committed to advancing my academic journey by applying to multiple prestigi
 ---
 
 ### Algorithms
-| Course Code | Course Title | Status | Credits | Instructor |
+| Course Code | Course Title | Letter Grade | Credits | Instructor |
 |-------------|--------------|--------|---------|------------|
 | CSCA 5414 | Dynamic Programming, Greedy Algorithms | A | 1 | Sriram Sankaranarayanan |
 | CSCA 5424 | Approximation Algorithms and Linear Programming | A | 1 | Sriram Sankaranarayanan |
