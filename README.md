@@ -11,8 +11,8 @@
 | ▶️ YouTube       | [@goog-msft-fb-nflx-nvda-aapl](https://www.youtube.com/@goog-msft-fb-nflx-nvda-aapl)                                                                                     |
 | 🐦 X (Twitter)   | [James_GOOG_CLUW](https://x.com/James_GOOG_CLUW)                                                                                                                               |
 | 📸 Instagram     | [instagram.com/james_goog_cluw](https://instagram.com/james_goog_cluw)                                                                                                               |
-| 🧵 Threads       | [@james_goog_cluw](https://threads.net/@james_goog_cluw)                                                                                                                  |
-| 🦋 Bluesky       | [james-goog-mscluw.bsky.social](https://bsky.app/profile/james-goog-mscluw.bsky.social)                                                                             |
+| 🧵 Threads (inactive)       | [@james_goog_cluw](https://threads.net/@james_goog_cluw)                                                                                                                  |
+| 🦋 Bluesky (inactive)       | [james-goog-mscluw.bsky.social](https://bsky.app/profile/james-goog-mscluw.bsky.social)                                                                             |
 
 
 # Graduate School Application Goals (2025-2026)
