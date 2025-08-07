@@ -170,9 +170,9 @@ I am committed to advancing my academic journey by applying to multiple prestigi
 ### Algorithms
 | Course Code | Course Title | Status | Credits | Instructor |
 |-------------|--------------|--------|---------|------------|
-| CSCA 5414 | Dynamic Programming, Greedy Algorithms | Final grades will be posted on Aug 6 at 5:00 p.m. MT. | 1 | Sriram Sankaranarayanan |
-| CSCA 5424 | Approximation Algorithms and Linear Programming | Final grades will be posted on Aug 6 at 5:00 p.m. MT. | 1 | Sriram Sankaranarayanan |
-| CSCA 5454 | Advanced Data Structures, RSA and Quantum Algorithms | Final grades will be posted on Aug 6 at 5:00 p.m. MT. | 1 | Sriram Sankaranarayanan |
+| CSCA 5414 | Dynamic Programming, Greedy Algorithms | A | 1 | Sriram Sankaranarayanan |
+| CSCA 5424 | Approximation Algorithms and Linear Programming | A | 1 | Sriram Sankaranarayanan |
+| CSCA 5454 | Advanced Data Structures, RSA and Quantum Algorithms | A | 1 | Sriram Sankaranarayanan |
 
 ### Computer Vision
 | Course Code | Course Title | Status | Credits | Instructor |
