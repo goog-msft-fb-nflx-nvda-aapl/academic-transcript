@@ -1,16 +1,19 @@
 # 📬 Contact Information
 
-| Platform     | Link / Note                                                                                                                                                                     |
-|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 📄[Google Sheet](https://docs.google.com/spreadsheets/d/1qFHtR24B5UH7TLq60TdfFSSah3_vxXQ-apWZ8R6ydtY/edit?usp=sharing)      |   Academic Transcript, Certification, Weekly Schedule in 2025                                                                                                                             |
-| 📧 Gmail      | [r05921008@gmail.com](mailto:r05921008@gmail.com). <br>If needed, please contact me in either 🇺🇸English or 🇯🇵Japanese. Thank you!                                                                                                                               |
-| 💻 GitHub     | [github.com/goog-msft-fb-nflx-nvda-aapl](https://github.com/goog-msft-fb-nflx-nvda-aapl)                                                                                        |
-| 📇 LinkedIn   | *I will create a LinkedIn profile only after achieving two goals:*<br>1. Admission to a top MS program in the U.S. ( [Stanford](https://www.cs.stanford.edu/masters-program-overview), [CMU](https://csd.cmu.edu/academics/masters/ms-in-computer-science), [UW](https://www.compling.uw.edu/), [UT Austin](https://cdso.utexas.edu/msai), or [UIUC](https://siebelschool.illinois.edu/academics/graduate/ms-program), etc.)<br>2. Offer from top companies (Google/DeepMind, OpenAI, Anthropic, Microsoft, Meta, Apple, Nvidia, Netflix)<br>I’m not sure if I’ll ever get there — but I’m committed to doing my best to make it happen.<br>(Note: Amazon was a meaningful part of my journey, but it’s not the destination I’m aiming for.)|
-| 🏅 Credly     | [credly.com/users/james_hnd_2025/badges](https://www.credly.com/users/james_hnd_2025/badges#credly)                                                                            |
-| 📜 CertDirectory | [certdirectory.io/profile](https://certdirectory.io/profile/c83940d1-9bd6-468a-a67f-8dfb49fb4bbf)                                                                              |
-| ▶️ YouTube    | [youtube.com/@goog-msft-fb-nflx-nvda-aapl](https://www.youtube.com/@goog-msft-fb-nflx-nvda-aapl)                                                                                |
-| 🐦 X (Twitter) | [x.com/James_GOOG_CLUW](https://x.com/James_GOOG_CLUW)                                                                                                                         |
-| 📸 Instagram  | *Will be updated after my return to 🗼Japan this August.*                                                                                                                        |
+| Platform        | Link / Note                                                                                                                                                                          |
+|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 📄 [Google Sheet](https://docs.google.com/spreadsheets/d/1qFHtR24B5UH7TLq60TdfFSSah3_vxXQ-apWZ8R6ydtY/edit?usp=sharing) | Academic Transcript, Certification, Weekly Schedule in 2025                                                                                                  |
+| 📧 Gmail         | [r05921008@gmail.com](mailto:r05921008@gmail.com)<br>If needed, please contact me in either 🇺🇸English or 🇯🇵Japanese. Thank you!                                                 |
+| 💻 GitHub        | [goog-msft-fb-nflx-nvda-aapl](https://github.com/goog-msft-fb-nflx-nvda-aapl)                                                                                             |
+| 📇 LinkedIn      | [james-goog-jp-ms-cl-uw](https://www.linkedin.com/in/james-goog-jp-ms-cl-uw/)                                                                                        |
+| 🏅 Credly        | [james_hnd_2025/badges](https://www.credly.com/users/james_hnd_2025/badges#credly)                                                                                 |
+| 📜 CertDirectory | [certdirectory.io/profile](https://certdirectory.io/profile/c83940d1-9bd6-468a-a67f-8dfb49fb4bbf)                                                                                     |
+| ▶️ YouTube       | [@goog-msft-fb-nflx-nvda-aapl](https://www.youtube.com/@goog-msft-fb-nflx-nvda-aapl)                                                                                     |
+| 🐦 X (Twitter)   | [James_GOOG_CLUW](https://x.com/James_GOOG_CLUW)                                                                                                                               |
+| 📸 Instagram     | [instagram.com/james_goog_cluw](https://instagram.com/james_goog_cluw)                                                                                                               |
+| 🧵 Threads (inactive)       | [@james_goog_cluw](https://threads.net/@james_goog_cluw)                                                                                                                  |
+| 🦋 Bluesky (inactive)       | [james-goog-mscluw.bsky.social](https://bsky.app/profile/james-goog-mscluw.bsky.social)                                                                             |
+
 
 # Graduate School Application Goals (2025-2026)
 
@@ -165,11 +168,11 @@ I am committed to advancing my academic journey by applying to multiple prestigi
 ---
 
 ### Algorithms
-| Course Code | Course Title | Status | Credits | Instructor |
+| Course Code | Course Title | Letter Grade | Credits | Instructor |
 |-------------|--------------|--------|---------|------------|
-| CSCA 5414 | Dynamic Programming, Greedy Algorithms | Final grades will be posted on Aug 6 at 5:00 p.m. MT. | 1 | Sriram Sankaranarayanan |
-| CSCA 5424 | Approximation Algorithms and Linear Programming | Final grades will be posted on Aug 6 at 5:00 p.m. MT. | 1 | Sriram Sankaranarayanan |
-| CSCA 5454 | Advanced Data Structures, RSA and Quantum Algorithms | Final grades will be posted on Aug 6 at 5:00 p.m. MT. | 1 | Sriram Sankaranarayanan |
+| CSCA 5414 | Dynamic Programming, Greedy Algorithms | A | 1 | Sriram Sankaranarayanan |
+| CSCA 5424 | Approximation Algorithms and Linear Programming | A | 1 | Sriram Sankaranarayanan |
+| CSCA 5454 | Advanced Data Structures, RSA and Quantum Algorithms | A | 1 | Sriram Sankaranarayanan |
 
 ### Computer Vision
 | Course Code | Course Title | Status | Credits | Instructor |
