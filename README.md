@@ -272,7 +272,7 @@ I am committed to advancing my academic journey by applying to multiple prestigi
 * ❄️ **Fall 2025 – Session 2**
   Grades reflected on transcript: **January 3, 2026**
 * 🎓 **AI Graduate Certificate**
-  Certificate conferral date: **January 10, 2026** *(01–10)*
+  Certificate conferral date: **January 10, 2026**
 * 🌸 **Spring 2026 – Session 1**
   Grades reflected on transcript: **March 18, 2026**
 * 🎓 **Master of Science in Computer Science (MS-CS)**
