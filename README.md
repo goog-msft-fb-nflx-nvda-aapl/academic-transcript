@@ -197,72 +197,72 @@ I am committed to advancing my academic journey by applying to multiple prestigi
 ### Machine Learning: Theory & Hands-On Practice with Python (🍂Fall 2025 / Session 1)
 | Course Code | Course Title | Letter Grade | Credits | Instructor |
 |-------------|--------------|--------|---------|------------|
-| TBD | Introduction to Machine Learning: Supervised Learning | TBD | 1 | TBD |
-| TBD | Unsupervised Algorithms in Machine Learning | TBD | 1 | TBD |
-| TBD | Introduction to Deep Learning | TBD | 1 | TBD |
+| CSCA 5622 | Introduction to Machine Learning: Supervised Learning | TBD | 1 | TBD |
+| CSCA 5632 | Unsupervised Algorithms in Machine Learning | TBD | 1 | TBD |
+| CSCA 5642 | Introduction to Deep Learning | TBD | 1 | TBD |
 
 ---
 
 ### Introduction to Computer Vision (🍂Fall 2025 / Session 1)
 | Course Code | Course Title | Letter Grade | Credits | Instructor |
 |-------------|--------------|--------|---------|------------|
-| TBD | Introduction to Computer Vision | TBD | 1 | TBD |
-| TBD | Deep Learning for Computer Vision | TBD | 1 | TBD |
-| TBD | Computer Vision for Generative AI | TBD | 1 | TBD |
+| CSCA 5222 | Introduction to Computer Vision | TBD | 1 | TBD |
+| CSCA 5322 | Deep Learning for Computer Vision | TBD | 1 | TBD |
+| CSCA 5422 | Computer Vision for Generative AI | TBD | 1 | TBD |
 
 ---
 
 ### Introduction to Robotics with Webots (❄️Fall 2025 / Session 2)
 | Course Code | Course Title | Letter Grade | Credits | Instructor |
 |-------------|--------------|--------|---------|------------|
-| TBD | Basic Robotic Behaviors and Odometry | TBD | 1 | TBD |
-| TBD | Robotic Mapping and Trajectory Generation | TBD | 1 | TBD |
-| TBD | Robotic Path Planning and Task Execution | TBD | 1 | TBD |
+| CSCA 5312 | Basic Robotic Behaviors and Odometry | TBD | 1 | TBD |
+| CSCA 5332 | Robotic Mapping and Trajectory Generation | TBD | 1 | TBD |
+| CSCA 5342 | Robotic Path Planning and Task Execution | TBD | 1 | TBD |
 
 ---
 
 ### Natural Language Processing: Deep Learning Meets Linguistics (❄️Fall 2025 / Session 2)
 | Course Code | Course Title | Letter Grade | Credits | Instructor |
 |-------------|--------------|--------|---------|------------|
-| TBD | Fundamentals of Natural Language Processing | TBD | 1 | TBD |
-| TBD | Deep Learning for Natural Language Processing | TBD | 1 | TBD |
-| TBD | Model and Error Analysis for Natural Language Processing | TBD | 1 | TBD |
+| CSCA 5832 | Fundamentals of Natural Language Processing | TBD | 1 | TBD |
+| CSCA 5842 | Deep Learning for Natural Language Processing | TBD | 1 | TBD |
+| CSCA 5852 | Model and Error Analysis for Natural Language Processing | TBD | 1 | TBD |
 
 ---
 
 ### Foundations of Autonomous Systems (❄️Fall 2025 / Session 2)
 | Course Code | Course Title | Letter Grade | Credits | Instructor |
 |-------------|--------------|--------|---------|------------|
-| TBD | Modeling of Autonomous Systems | TBD | 1 | TBD |
-| TBD | Requirement Specifications for Autonomous Systems | TBD | 1 | TBD |
-| TBD | Verification and Synthesis of Autonomous Systems | TBD | 1 | TBD |
+| CSCA 5834 | Modeling of Autonomous Systems | TBD | 1 | TBD |
+| CSCA 5844 | Requirement Specifications for Autonomous Systems | TBD | 1 | TBD |
+| CSCA 5854 | Verification and Synthesis of Autonomous Systems | TBD | 1 | TBD |
 
 ---
 
 ### Computing, Ethics, and Society (🌸Spring 2026 / Session 1)
 | Course Code | Course Title | Letter Grade | Credits | Instructor |
 |-------------|--------------|--------|---------|------------|
-| TBD | Computing, Ethics, and Society Foundations | TBD | 1 | TBD |
-| TBD | Ethical Issues in AI and Professional Ethics | TBD | 1 | TBD |
-| TBD | Ethical Issues in Computing Applications | TBD | 1 | TBD |
+| CSCA 5214 | Computing, Ethics, and Society Foundations | TBD | 1 | TBD |
+| CSCA 5224 | Ethical Issues in AI and Professional Ethics | TBD | 1 | TBD |
+| CSCA 5234 | Ethical Issues in Computing Applications | TBD | 1 | TBD |
 
 ---
 
 ### Software Architecture for Big Data (🌸Spring 2026 / Session 1)
 | Course Code | Course Title | Letter Grade | Credits | Instructor |
 |-------------|--------------|--------|---------|------------|
-| TBD | Fundamentals of Software Architecture for Big Data | TBD | 1 | TBD |
-| TBD | Software Architecture Patterns for Big Data | TBD | 1 | TBD |
-| TBD | Applications of Software Architecture for Big Data | TBD | 1 | TBD |
+| CSCA 5008 | Fundamentals of Software Architecture for Big Data | TBD | 1 | TBD |
+| CSCA 5018 | Software Architecture Patterns for Big Data | TBD | 1 | TBD |
+| CSCA 5028 | Applications of Software Architecture for Big Data | TBD | 1 | TBD |
 
 ---
 
 ### Network Systems: Principles and Practice (Linux and Cloud Networking) (🌸Spring 2026 / Session 1)
 | Course Code | Course Title | Letter Grade | Credits | Instructor |
 |-------------|--------------|--------|---------|------------|
-| TBD | Network Systems Foundation | TBD | 1 | TBD |
-| TBD | Network Principles in Practice: Linux Networking | TBD | 1 | TBD |
-| TBD | Network Principles in Practice: Cloud Networking | TBD | 1 | TBD |
+| CSCA 5063 | Network Systems Foundation | TBD | 1 | TBD |
+| CSCA 5073 | Network Principles in Practice: Linux Networking | TBD | 1 | TBD |
+| CSCA 5083 | Network Principles in Practice: Cloud Networking | TBD | 1 | TBD |
 
 ---
 
